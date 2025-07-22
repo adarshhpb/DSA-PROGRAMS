@@ -1,10 +1,13 @@
 # DSA PROGRAMS
 
-This repository contains C programs for common Data Structures and Algorithms, including:
-- Sorting (Bubble, Selection, Insertion, Merge, Quick, Heap)
-- Searching (Linear, Binary)
-- Stack and Queue (including Circular and Priority Queues)
-- Linked List (with all operations)
-- Hashing (with linear probing)
-- Memory allocation strategies (First Fit, Best Fit, Worst Fit)
-- Array applications (e.g., Polynomial addition)
+This repository contains C programs implementing fundamental Data Structures and Algorithms. These programs were developed as part of my coursework during college.
+
+## Included Topics
+
+- **Sorting Algorithms**: Bubble Sort, Selection Sort, Merge Sort, Quick Sort, Heap Sort  
+- **Searching Algorithms**: Linear Search, Binary Search  
+- **Stack and Queue**: Including Circular Queue and Priority Queue implementations  
+- **Linked List**: Singly Linked List with all standard operations  
+- **Hashing**: Hash table implementation using Linear Probing  
+- **Memory Allocation Strategies**: First Fit, Best Fit, Worst Fit  
+- **Array Applications**: Polynomial Addition using arrays  
